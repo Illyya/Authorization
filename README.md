@@ -3,7 +3,7 @@
 ```
 5f8475902b0be670555f1bb3
 ```
-https://illyya.github.io/Authorization/
+https://illyya.github.io/authorization/
 ## Project setup
 ```
 npm install
